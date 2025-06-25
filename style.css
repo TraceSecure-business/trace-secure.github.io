@@ -55,7 +55,7 @@
       border-radius: 8px;
     }
     .section h2 {
-      margin-left: auto;
+      text-align: center;
       background: linear-gradient(45deg, #d4af37, #f5d76e);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
