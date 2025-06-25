@@ -29,11 +29,11 @@
     nav a:hover {
       opacity: 0.8;
     }
-    .hero {
+    .tagline {
       text-align: center;
       padding: 4rem 2rem;
     }
-    .hero h1 {
+    .tagline h1 {
       font-size: 2.5rem;
       margin-bottom: 0.5rem;
       background: linear-gradient(45deg, #d4af37, #f5d76e);
@@ -55,6 +55,7 @@
       border-radius: 8px;
     }
     .section h2 {
+      margin-left: auto;
       background: linear-gradient(45deg, #d4af37, #f5d76e);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
